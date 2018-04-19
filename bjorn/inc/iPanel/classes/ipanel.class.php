@@ -529,6 +529,8 @@ if (!class_exists('IPANEL')) {
                 $classes .= ' - ' . $this->direction . ' - ';
                 return $classes;
             }
+        return $classes;
+        
         }
         
         /**
