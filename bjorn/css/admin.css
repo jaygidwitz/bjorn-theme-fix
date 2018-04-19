@@ -1,0 +1,240 @@
+/* Composer bug fix */
+option.fade,
+select.fade,
+input.fade {
+	opacity: 1;
+}
+.hide_in_vc_editor {
+    display: none;
+}
+/* WP fixes */
+body .notice, 
+body div.error, 
+body div.updated {
+    margin-left: 0;
+}
+.postbox .inside span {
+    color: #aaa;
+    font-style: italic;
+}
+/* Welcome theme box */
+/*
+div.mgt-welcome-message.updated {
+    border: 4px solid #0091CD;
+    border: 4px solid #b4b9be;
+    margin-left: 0!important;
+}*/
+.mgt-welcome-logo {
+    display: inline-block;
+    margin-right: 10px;
+    position: relative;
+    top: 0;
+}
+.mgt-welcome-message .about-description {
+    font-size: 16px;
+    color: #777;
+    margin-top: 0;
+}
+.mgt-welcome-message .mgt-divider {
+    margin-bottom: 10px;
+}
+.mgt-welcome-message .button-step {
+    border-radius: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    color: #2EA2CC;
+    line-height: 20px;
+    font-weight: bold;
+}
+.mgt-welcome-message .button-secondary .button-step  {
+    background: #777;
+    color: #fff;
+}
+.wrap .mgt-welcome-message h2 {
+    float: none;
+    margin-bottom: 0;
+}
+.mgt-welcome-message label,
+.mgt-welcome-message input {
+    display: none;
+}
+.mgt-welcome-message .button.button-hero {
+    width: 380px;
+}
+.mgt-welcome-message a {
+    text-decoration: none!important;
+}
+.mgt-welcome-message #mgt-dismiss-notice {
+    float: right;
+    margin-top: 20px;
+}
+.mgt-welcome-message-steps-wrapper {
+    display: none;
+}
+.mgt-welcome-message-show-steps .button {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#mgt-welcome-message-show-steps:after {
+    -moz-osx-font-smoothing: grayscale;
+    bottom: 3px;
+    color: #ffffff;
+    content: "";
+    display: inline-block;
+    font: 400 20px/1 dashicons;
+    padding: 0;
+    position: relative;
+    right: 0;
+    text-decoration: none !important;
+    vertical-align: bottom;
+}
+/* Theme demo importer */
+.radium-importer-message .import-log-text {
+    background: none repeat scroll 0 0 #fff;
+    font-family: courier;
+    font-size: 12px;
+    padding: 0 15px 15px;
+    color: darkblue;
+    border: 1px solid #e5e5e5;
+    margin-right: 15px;
+}
+.radium-importer-message .import-log-text pre {
+    margin: 0;
+}
+.configuration-error {
+    color: red;
+}
+.configuration-info {
+    color: blue;
+}
+.configuration-success {
+    color: green;
+}
+.theme-important-notice {
+    background: #fff;
+    margin: 0 0 30px;
+    padding: 15px 30px;
+    font-size: 17px;
+}
+.theme-important-notice li {
+    margin-bottom: 15px;
+}
+.theme-important-notice p {
+    font-size: 17px;
+}
+.wp-core-ui .button-primary.radium-import-start {
+    font-size: 14px;
+    height: 46px;
+    line-height: 44px;
+    padding: 0 36px;
+}
+.radium-importer-wrap {
+    max-width: 1040px;
+}
+.theme-demo-import-items {
+    clear: both;
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.theme-demo-import-item {
+    display: inline-block;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px; 
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: 1px solid #dedede;
+    background: #fff;
+    box-shadow: 0 1px 1px -1px rgba(0, 0, 0, 0.1);
+    width: 232px;
+}
+.theme-demo-import-item-title {
+    padding-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    background: #FAFAFA;
+    border-bottom: 1px solid #dedede;
+}
+.theme-demo-import-item-button {
+    padding-left:30px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #dedede;
+}
+.theme-demo-import-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.theme-demo-import-item:hover {
+    color: #00A0D2;
+}
+.theme-demo-import-item a.theme-live-preview {
+    display: block;
+    text-align: center;
+    font-weight: normal;
+}
+/* Theme registration */
+.theme-activation-wrapper {
+    text-align: center;
+}
+.theme-activation-wrapper h1 {
+    color: #0085BA;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+.theme-activation-wrapper input[type="email"],
+.theme-activation-wrapper input[type="text"] {
+    padding: 11px 15px;
+    font-size: 16px;
+    width: 450px;
+    margin-bottom: 10px;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.07);
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.theme-activation-wrapper input[type="email"]:focus,
+.theme-activation-wrapper input[type="text"]:focus {
+    border: 1px solid #0085BA;
+}
+.theme-activation-wrapper .activate-theme-btn,
+.theme-activation-wrapper a.button {
+    width: 450px;
+    margin-top: 15px;
+}
+.theme-activation-wrapper input {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.theme-activation-wrapper p.text-large {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.theme-activation-wrapper p.text-grey {
+    margin-top: 270px;
+    color: #AFAFAF;
+}
+.theme-activation-wrapper p.text-grey a {
+    color: #AFAFAF;
+}
+.theme-activation-wrapper .activate-theme-subblink {
+    display: block;
+}
+.theme-activation-wrapper .theme-activation-message {
+    margin-top: 15px;
+}
+.theme-activation-wrapper .theme-activation-message .success {
+    color: darkgreen;
+}
+.theme-activation-wrapper .theme-activation-message .error {
+    color: red;
+}

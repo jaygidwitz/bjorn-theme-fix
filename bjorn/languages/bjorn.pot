@@ -1,0 +1,2646 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bjorn\n"
+"POT-Creation-Date: 2017-11-03 12:49+0200\n"
+"PO-Revision-Date: 2017-01-25 21:04+0200\n"
+"Last-Translator: dedalx <dedalx.rus@gmail.com>\n"
+"Language-Team: MagniumThemes <support@magniumthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__;_nx\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "404"
+msgstr ""
+
+#: ../404.php:19
+msgid "The page you were looking for could not be found."
+msgstr ""
+
+#: ../404.php:20
+msgid ""
+"You may have typed the address incorrectly or you may have used an outdated "
+"link. Try search our site."
+msgstr ""
+
+#: ../archive.php:65
+msgid "Category"
+msgstr ""
+
+#: ../archive.php:70
+msgid "Tag"
+msgstr ""
+
+#: ../archive.php:78
+msgid "Author"
+msgstr ""
+
+#: ../archive.php:90
+msgid "Daily Archives"
+msgstr ""
+
+#: ../archive.php:95
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../archive.php:100
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../archive.php:105 ../archive.php:110 ../archive.php:115 ../archive.php:120
+#: ../archive.php:125
+msgid "Post format"
+msgstr ""
+
+#: ../archive.php:106
+msgid "Aside"
+msgstr ""
+
+#: ../archive.php:111
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:116
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:121
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:126
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:130
+msgid "Posts"
+msgstr ""
+
+#: ../archive.php:131
+msgid "Archives"
+msgstr ""
+
+#: ../author-bio.php:11
+msgid "About me"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Post comment"
+msgstr ""
+
+#: ../comments.php:67
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:97
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:99
+msgid "Comments navigation"
+msgstr ""
+
+#: ../comments.php:101
+msgid "Newer Comments"
+msgstr ""
+
+#: ../content-single.php:184
+msgid "0 Comments"
+msgstr ""
+
+#: ../content-single.php:184
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-single.php:184
+msgid "% Comments"
+msgstr ""
+
+#: ../content-single.php:188
+msgid "Views"
+msgstr ""
+
+#: ../content-single.php:249
+msgid "Continue reading..."
+msgstr ""
+
+#: ../content-single.php:252 ../content.php:457
+msgid "Pages:"
+msgstr ""
+
+#: ../content-single.php:282
+msgid ""
+"<i class=\"fa fa-comment-o\" aria-hidden=\"true\"></i>\n"
+"Leave a comment"
+msgstr ""
+
+#: ../content.php:405
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../content.php:413
+msgid "By"
+msgstr ""
+
+#: ../content.php:438 ../content.php:442 ../content.php:450
+#: ../inc/theme-functions.php:724 ../inc/theme-functions.php:1352
+msgid "Read more"
+msgstr ""
+
+#: ../footer.php:125
+msgid "Close"
+msgstr ""
+
+#: ../functions.php:114
+msgid "Logo for Transparent Header (Light logo)"
+msgstr ""
+
+#: ../functions.php:135
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:136
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:281
+msgid "Previous"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Older posts"
+msgstr ""
+
+#: ../functions.php:313
+msgid "Newer posts"
+msgstr ""
+
+#: ../functions.php:340
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:340 ../functions.php:350
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:366
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:437
+msgid "Please fill out email and purchase code fields."
+msgstr ""
+
+#: ../functions.php:441
+msgid "Registering theme..."
+msgstr ""
+
+#: ../functions.php:460
+msgid "Theme registered succesfully!"
+msgstr ""
+
+#: ../functions.php:466
+msgid ""
+"Purchase code is not valid. Your purchase code should look like this: 36434418-"
+"e837-48c5-8737-f20d52b36a1f"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:393
+#: ../inc/class-tgm-plugin-activation.php:912
+#: ../inc/class-tgm-plugin-activation.php:2618
+#: ../inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:394
+#: ../inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1019
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: %2$s."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:175
+msgid ""
+"Are you sure you want to reset ALL theme options back to the defaults? You can't "
+"revert it back if you don't made backup."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:176
+msgid "Are you sure?"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:298
+#: ../inc/iPanel/classes/ipanel.class.php:346
+#: ../inc/iPanel/classes/ipanel.class.php:389
+#: ../inc/iPanel/classes/ipanel.class.php:472
+msgid "Error!"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:298
+msgid "Options Updated."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:365
+msgid "You've not specified any data."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:379
+msgid "Data has been imported successfully."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:382
+msgid "An error occured while importing data."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:389
+msgid "Options Reset."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:414
+msgid "The file permanently deleted."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:417
+msgid "ERROR!"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:449
+#: ../inc/iPanel/classes/ipanel.class.php:459
+#: ../inc/iPanel/classes/ipanel.class.php:2179
+#: ../inc/iPanel/classes/ipanel.class.php:2189
+msgid "File URL"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:450
+#: ../inc/iPanel/classes/ipanel.class.php:460
+#: ../inc/iPanel/classes/ipanel.class.php:2180
+#: ../inc/iPanel/classes/ipanel.class.php:2190
+msgid "File Path"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:894
+msgid "Error in download the file."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1251
+#: ../inc/iPanel/classes/ipanel.class.php:1339
+msgid "Save All Changes"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1254
+msgid "Premium WordPress Themes"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1255
+msgid "Support Center"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1257
+#: ../inc/iPanel/classes/ipanel.class.php:1346
+msgid "Toggle Preview"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1296
+msgid "Welcome to Bjorn!"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1298
+msgid "Enter your email"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1298
+msgid "Enter your theme purchase code"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1299
+msgid "How to find your theme purchase code?"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1299
+msgid "Register theme"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1301
+msgid "I will register theme later (remind me tomorrow)"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1323
+#: ../inc/iPanel/classes/ipanel.class.php:1327
+#: ../inc/iPanel/classes/ipanel.class.php:1331
+msgid "Your browser doesn't support iframes."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:1343
+msgid "Reset theme options"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2164
+#: ../inc/iPanel/classes/ipanel.class.php:2424
+#: ../inc/iPanel/classes/ipanel.class.php:2425
+msgid "Choose File"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2181
+msgid "Delete"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2302
+#: ../inc/iPanel/classes/ipanel.class.php:2322
+#: ../inc/iPanel/classes/ipanel.class.php:2341
+msgid "Item"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2336
+msgid "New Item"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2423
+msgid "Upload"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2458
+msgid "You need to save options first."
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2469
+msgid "Download Theme Options Backup File"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2577
+msgid "Paste exported theme options string to import options from backup:"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2578
+msgid "Choose Theme Options Backup File"
+msgstr ""
+
+#: ../inc/iPanel/classes/ipanel.class.php:2580
+msgid "Import options"
+msgstr ""
+
+#: ../inc/iPanel/options.php:16
+msgid "Enable theme CSS3 animations"
+msgstr ""
+
+#: ../inc/iPanel/options.php:22
+msgid "Enable colors and background colors fade effects"
+msgstr ""
+
+#: ../inc/iPanel/options.php:26
+msgid "Enable theme images animations on hover"
+msgstr ""
+
+#: ../inc/iPanel/options.php:32
+msgid "Enable scale effects on some featured images hover in posts"
+msgstr ""
+
+#: ../inc/iPanel/options.php:36
+msgid "Body background image or pattern"
+msgstr ""
+
+#: ../inc/iPanel/options.php:41
+msgid ""
+"Upload your site body background image if you want to show it. Remove image to "
+"remove background."
+msgstr ""
+
+#: ../inc/iPanel/options.php:45
+msgid "Body background image behaviour"
+msgstr ""
+
+#: ../inc/iPanel/options.php:49 ../inc/iPanel/options.php:196
+msgid "Default"
+msgstr ""
+
+#: ../inc/iPanel/options.php:50 ../inc/iPanel/options.php:197
+msgid "Repeat (for pattern)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:51 ../inc/iPanel/options.php:198
+msgid "Cover (for large image)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:57
+msgid ""
+"<div class=\"ipanel-label\">\n"
+"    <label>Favicon</label>\n"
+"  </div><div class=\"ipanel-input\">\n"
+"    You can upload your website favicon (site icon) in <a href=\"customize.php\" "
+"target=\"_blank\">WordPress Customizer</a> (in \"Site Identity\" section at the "
+"left sidebar).<br/><br/><br/>\n"
+"  </div>"
+msgstr ""
+
+#: ../inc/iPanel/options.php:79
+msgid "Logo settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:87
+msgid ""
+"<div class=\"ipanel-label\">\n"
+"    <label>Logo upload</label>\n"
+"  </div><div class=\"ipanel-input\">\n"
+"    You can upload your website logo in <a href=\"customize.php\" target=\"_blank"
+"\">WordPress Customizer</a> (in \"Header Image\" section at the left sidebar)."
+"<br/><br/><br/>\n"
+"  </div>"
+msgstr ""
+
+#: ../inc/iPanel/options.php:94
+msgid "Logo width (px)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:97
+msgid ""
+"Default: 159. Upload retina logo (2x size) and input your regular logo width "
+"here. For example if your retina logo have 400px width put 200 value here. If "
+"you does not use retina logo input regular logo width here (your logo image "
+"width)."
+msgstr ""
+
+#: ../inc/iPanel/options.php:101
+msgid "Enable text logo"
+msgstr ""
+
+#: ../inc/iPanel/options.php:107
+msgid ""
+"Use this option to disable image logo on site and replace it with text specified "
+"below."
+msgstr ""
+
+#: ../inc/iPanel/options.php:111
+msgid "Text logo title"
+msgstr ""
+
+#: ../inc/iPanel/options.php:114
+msgid "Add your site text logo. HTML tags allowed."
+msgstr ""
+
+#: ../inc/iPanel/options.php:118
+msgid "Text logo font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:122 ../inc/iPanel/options.php:1581
+msgid "Body font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:123
+msgid "Header font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:124 ../inc/iPanel/options.php:1623
+msgid "Additional font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:126
+msgid ""
+"Choose font face that will be used for logo text. You can select fonts in Fonts "
+"tab at the left."
+msgstr ""
+
+#: ../inc/iPanel/options.php:130
+msgid "Logo position in header"
+msgstr ""
+
+#: ../inc/iPanel/options.php:135 ../inc/iPanel/options.php:235
+#: ../inc/iPanel/options.php:270 ../inc/iPanel/options.php:1228
+#: ../inc/iPanel/options.php:1249 ../inc/iPanel/options.php:1270
+#: ../inc/iPanel/options.php:1291 ../inc/iPanel/options.php:1312
+#: ../inc/iPanel/options.php:1333 ../inc/iPanel/options.php:1354
+#: ../inc/theme-metaboxes.php:72 ../inc/theme-metaboxes.php:219
+#: ../inc/theme-widgets.php:973
+msgid "Left"
+msgstr ""
+
+#: ../inc/iPanel/options.php:139 ../inc/iPanel/options.php:239
+#: ../inc/iPanel/options.php:274 ../inc/theme-widgets.php:974
+msgid "Center"
+msgstr ""
+
+#: ../inc/iPanel/options.php:143 ../inc/iPanel/options.php:243
+#: ../inc/iPanel/options.php:278 ../inc/iPanel/options.php:1232
+#: ../inc/iPanel/options.php:1253 ../inc/iPanel/options.php:1274
+#: ../inc/iPanel/options.php:1295 ../inc/iPanel/options.php:1316
+#: ../inc/iPanel/options.php:1337 ../inc/iPanel/options.php:1358
+#: ../inc/theme-metaboxes.php:73 ../inc/theme-metaboxes.php:220
+#: ../inc/theme-widgets.php:975
+msgid "Right"
+msgstr ""
+
+#: ../inc/iPanel/options.php:150
+msgid "Disable text tagline below logo"
+msgstr ""
+
+#: ../inc/iPanel/options.php:156
+msgid "This option will disable text tagline in header"
+msgstr ""
+
+#: ../inc/iPanel/options.php:166
+msgid "Header settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:173
+msgid "Disable entire header"
+msgstr ""
+
+#: ../inc/iPanel/options.php:179
+msgid ""
+"This option will disable ALL header (with menu below header, logo, etc). Useful "
+"for minimalistic themes with left/right sidebar used to show logo and menu."
+msgstr ""
+
+#: ../inc/iPanel/options.php:183
+msgid "Header Background image or pattern"
+msgstr ""
+
+#: ../inc/iPanel/options.php:188
+msgid ""
+"Upload your site header background image if you want to show it. Remove image to "
+"remove background."
+msgstr ""
+
+#: ../inc/iPanel/options.php:192
+msgid "Header Background image behaviour"
+msgstr ""
+
+#: ../inc/iPanel/options.php:203
+msgid "Header height in pixels"
+msgstr ""
+
+#: ../inc/iPanel/options.php:206
+msgid "Default: 170"
+msgstr ""
+
+#: ../inc/iPanel/options.php:210
+msgid "Sticky/Fixed top header (with menu, search, social icons)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:216
+msgid "Top Header will be fixed to top if enabled"
+msgstr ""
+
+#: ../inc/iPanel/options.php:220
+msgid "Show site logo in sticky header"
+msgstr ""
+
+#: ../inc/iPanel/options.php:226
+msgid "Top header will be fixed to top if enabled"
+msgstr ""
+
+#: ../inc/iPanel/options.php:230
+msgid "Header banner 1 position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:247 ../inc/iPanel/options.php:282
+#: ../inc/iPanel/options.php:899 ../inc/iPanel/options.php:909
+#: ../inc/iPanel/options.php:919 ../inc/iPanel/options.php:1012
+msgid "Disable"
+msgstr ""
+
+#: ../inc/iPanel/options.php:251 ../inc/iPanel/options.php:286
+msgid ""
+"You can show banner image or some text in your header. Make sure that you use "
+"different positions for logo and your banner (for example logo at the left and "
+"banner at the right)."
+msgstr ""
+
+#: ../inc/iPanel/options.php:255
+msgid "Header banner 1 content"
+msgstr ""
+
+#: ../inc/iPanel/options.php:258 ../inc/iPanel/options.php:293
+msgid ""
+"If you selected Header banner position below you can use any HTML here to show "
+"your banner or other content in header."
+msgstr ""
+
+#: ../inc/iPanel/options.php:265
+msgid "Header Banner 2 position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:290
+msgid "Header Banner content"
+msgstr ""
+
+#: ../inc/iPanel/options.php:306
+msgid "Main menu and Top menu settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:314
+msgid "Disable top menu"
+msgstr ""
+
+#: ../inc/iPanel/options.php:320
+msgid ""
+"This option will disable top menu (first menu with social icons and additional "
+"links)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:324
+msgid "Top menu style"
+msgstr ""
+
+#: ../inc/iPanel/options.php:328
+msgid "White menu"
+msgstr ""
+
+#: ../inc/iPanel/options.php:329
+msgid "Black menu"
+msgstr ""
+
+#: ../inc/iPanel/options.php:334
+msgid "Search toggle button position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:338
+msgid "Main Menu (right side)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:339
+msgid "Top menu (inside social icons)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:340
+msgid "Disable search button"
+msgstr ""
+
+#: ../inc/iPanel/options.php:342
+msgid ""
+"Note: Top Menu position will not work if you disabled social icons display in "
+"top menu."
+msgstr ""
+
+#: ../inc/iPanel/options.php:352
+msgid ""
+"Sidebar can be opened by toggle button near header mini cart. You can add "
+"widgets to this sidebar in \"Offcanvas Right sidebar\" in Appearance > Widgets"
+msgstr ""
+
+#: ../inc/iPanel/options.php:356
+msgid "Enable Social Icons in top menu"
+msgstr ""
+
+#: ../inc/iPanel/options.php:365
+msgid "Main menu font decoration"
+msgstr ""
+
+#: ../inc/iPanel/options.php:369
+msgid "Uppercase letters"
+msgstr ""
+
+#: ../inc/iPanel/options.php:370
+msgid "Italic letters"
+msgstr ""
+
+#: ../inc/iPanel/options.php:371
+msgid "None"
+msgstr ""
+
+#: ../inc/iPanel/options.php:376
+msgid "Main menu font size"
+msgstr ""
+
+#: ../inc/iPanel/options.php:380
+msgid "Large font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:381
+msgid "Normal font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:386
+msgid "Main menu font weight"
+msgstr ""
+
+#: ../inc/iPanel/options.php:390
+msgid "Bold font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:391
+msgid "Regular font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:396
+msgid "Main menu dropdown arrows style for submenus"
+msgstr ""
+
+#: ../inc/iPanel/options.php:400
+msgid "Right arrow"
+msgstr ""
+
+#: ../inc/iPanel/options.php:401
+msgid "Down arrow"
+msgstr ""
+
+#: ../inc/iPanel/options.php:402
+msgid "Disable arrow"
+msgstr ""
+
+#: ../inc/iPanel/options.php:407
+msgid "Add bottom margin to main menu?"
+msgstr ""
+
+#: ../inc/iPanel/options.php:413
+msgid ""
+"Enable this option if you want to add additional bottom margin for main menu."
+msgstr ""
+
+#: ../inc/iPanel/options.php:434
+msgid "Instagram in Footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:441
+msgid "Display Instagram Feed in Footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:447
+msgid ""
+"<a href=\"https://wordpress.org/plugins/instagram-feed/\" target=\"_blank"
+"\">Instagram Feed</a> plugin must be installed and configured by theme "
+"documentation before enabling this option."
+msgstr ""
+
+#: ../inc/iPanel/options.php:451
+msgid "Footer Instagram title"
+msgstr ""
+
+#: ../inc/iPanel/options.php:454
+msgid "Leave empty if you don't want to show text title."
+msgstr ""
+
+#: ../inc/iPanel/options.php:458
+msgid "Footer Instagram subtitle"
+msgstr ""
+
+#: ../inc/iPanel/options.php:461
+msgid "Leave empty if you don't want to show text subtitle."
+msgstr ""
+
+#: ../inc/iPanel/options.php:468
+msgid "Footer HTML Block"
+msgstr ""
+
+#: ../inc/iPanel/options.php:475
+msgid "Display Footer HTML Block in Footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:481
+msgid "Enable block with any HTML and background image in footer."
+msgstr ""
+
+#: ../inc/iPanel/options.php:485
+msgid "Footer HTML Block background image"
+msgstr ""
+
+#: ../inc/iPanel/options.php:490
+msgid ""
+"Upload your footer HTML Block background image (1600x1200px JPG recommended). "
+"Remove image to remove background."
+msgstr ""
+
+#: ../inc/iPanel/options.php:494
+msgid "Footer HTML Block content"
+msgstr ""
+
+#: ../inc/iPanel/options.php:497
+msgid "You can use any HTML here to display any content in your footer block."
+msgstr ""
+
+#: ../inc/iPanel/options.php:507
+msgid "Footer Shortcode Block"
+msgstr ""
+
+#: ../inc/iPanel/options.php:514
+msgid "Display Shortcode Block in Footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:520
+msgid ""
+"Enable block with any shortcode from any plugin on grey background in footer."
+msgstr ""
+
+#: ../inc/iPanel/options.php:524
+msgid "Footer Shortcode code"
+msgstr ""
+
+#: ../inc/iPanel/options.php:527
+msgid ""
+"Add shortcode from any plugin that you want to display here (you can combine it "
+"with HTML), for example: &#x3C;h1&#x3E;My title&#x3C;/h1&#x3E;&#x3C;div&#x3E;"
+"[my_shortcode]&#x3C;/div&#x3E;"
+msgstr ""
+
+#: ../inc/iPanel/options.php:537
+msgid "General Footer Options"
+msgstr ""
+
+#: ../inc/iPanel/options.php:553
+msgid "Enable Footer Menu"
+msgstr ""
+
+#: ../inc/iPanel/options.php:562
+msgid "Enable Social Icons in Footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:571
+msgid "Footer copyright text"
+msgstr ""
+
+#: ../inc/iPanel/options.php:598
+msgid "Main Blog settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:605
+msgid "Blog layout"
+msgstr ""
+
+#: ../inc/iPanel/options.php:610
+msgid "Default layout"
+msgstr ""
+
+#: ../inc/iPanel/options.php:614
+msgid "Show posts in 2 columns"
+msgstr ""
+
+#: ../inc/iPanel/options.php:618
+msgid "Show posts in 2 columns with big blocks after few small"
+msgstr ""
+
+#: ../inc/iPanel/options.php:622
+msgid "List with short posts blocks"
+msgstr ""
+
+#: ../inc/iPanel/options.php:626
+msgid "List with short posts and big blocks (every third post)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:630
+msgid "Masonry layout"
+msgstr ""
+
+#: ../inc/iPanel/options.php:634
+msgid "Centered text (Minimnalistic, No images)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:638
+msgid "This option will completely change blog listing layout and posts display."
+msgstr ""
+
+#: ../inc/iPanel/options.php:642
+msgid "Blog posts short content display"
+msgstr ""
+
+#: ../inc/iPanel/options.php:646
+msgid "Full content (You will add <!--more--> tag manually)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:647
+msgid "Excerpt (Auto crop by words)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:648
+msgid "Disable short content and Continue reading button"
+msgstr ""
+
+#: ../inc/iPanel/options.php:651
+msgid ""
+"Change how short post content will be displayed in blog listing. <a href="
+"\"https://en.support.wordpress.com/more-tag/\" target=\"_blank\">Read more</a> "
+"about WordPress &#x3C;!--more--&#x3E; tag."
+msgstr ""
+
+#: ../inc/iPanel/options.php:654
+msgid "Post excerpt length (words)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:657
+msgid "Used by WordPress for post shortening. Default: 40"
+msgstr ""
+
+#: ../inc/iPanel/options.php:661
+msgid "Disable blog posts loop on main Blog page (Blog homepage)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:667
+msgid ""
+"Enable this options if you does not want to show posts on your blog homepage. "
+"You can use this to create minimalistic website (you will have just blog slider, "
+"welcome blocks and editor's picks blocks on homepage."
+msgstr ""
+
+#: ../inc/iPanel/options.php:671
+msgid "Show author name (\"by author\") in blog posts"
+msgstr ""
+
+#: ../inc/iPanel/options.php:680
+msgid "Show share buttons for posts in posts listing page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:686 ../inc/iPanel/options.php:1161
+msgid "Will show share buttons in posts on blog listing pages."
+msgstr ""
+
+#: ../inc/iPanel/options.php:690
+msgid "Show related posts on posts listing page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:696
+msgid ""
+"Will show 3 related posts after every post in posts list. Does not available in "
+"Masonry layout and 2 column layout."
+msgstr ""
+
+#: ../inc/iPanel/options.php:700
+msgid "Show related posts by"
+msgstr ""
+
+#: ../inc/iPanel/options.php:704
+msgid "Tags"
+msgstr ""
+
+#: ../inc/iPanel/options.php:705
+msgid "Categories"
+msgstr ""
+
+#: ../inc/iPanel/options.php:708
+msgid ""
+"Related posts can be fetched by the same tags or same categories from original "
+"post."
+msgstr ""
+
+#: ../inc/iPanel/options.php:711
+msgid "Show Post Comments counters in posts blocks"
+msgstr ""
+
+#: ../inc/iPanel/options.php:717
+msgid ""
+"This option will enable post comments counter display in sliders, popular posts, "
+"editor picks, reagular posts blocks."
+msgstr ""
+
+#: ../inc/iPanel/options.php:721
+msgid "Show Post Views counters in posts blocks"
+msgstr ""
+
+#: ../inc/iPanel/options.php:727
+msgid "This option will enable post views counter display in posts."
+msgstr ""
+
+#: ../inc/iPanel/options.php:735
+msgid "Featured Posts Slider settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:746
+msgid ""
+"<p>To add your posts to Featured Posts Slider you need to edit your post and set "
+"it as featured for slider in Post Settings box.</p>"
+msgstr ""
+
+#: ../inc/iPanel/options.php:749
+msgid "Show Featured Posts Slider on homepage"
+msgstr ""
+
+#: ../inc/iPanel/options.php:755
+msgid ""
+"You can mark posts as featured in post edit screen at the bottom settings box to "
+"display it in slider in homepage header."
+msgstr ""
+
+#: ../inc/iPanel/options.php:759
+msgid "Show Featured Posts Slider under header (Transparent header feature)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:765
+msgid ""
+"This feature will make your header transparent and will show it above slider on "
+"Homepage. You need to upload light logo version to use this feature."
+msgstr ""
+
+#: ../inc/iPanel/options.php:769
+msgid "Featured Posts Slider width"
+msgstr ""
+
+#: ../inc/iPanel/options.php:779
+msgid "Show Revolution Slider instead of theme Featured Posts Slider on homepage"
+msgstr ""
+
+#: ../inc/iPanel/options.php:785
+msgid ""
+"You need to create Revolution Slider with alias BLOG_SLIDER that will be used "
+"instead of theme slider. <br>IMPORTANT: All theme slider options BELOW will NOT "
+"WORK if you enabled Revolution Slider, because you will need to manage ALL "
+"slider options in Revolution Slider plugin settings in this case."
+msgstr ""
+
+#: ../inc/iPanel/options.php:789
+msgid "Featured Posts Slider height"
+msgstr ""
+
+#: ../inc/iPanel/options.php:799
+msgid "Drag to change value. Default: 490px"
+msgstr ""
+
+#: ../inc/iPanel/options.php:803
+msgid "Featured Posts Slider items per row"
+msgstr ""
+
+#: ../inc/iPanel/options.php:815
+msgid "Margin between slides"
+msgstr ""
+
+#: ../inc/iPanel/options.php:825
+msgid ""
+"Horizontal margin between slides if you have more than 1 items per row in "
+"slider. Auto disabled if you use transparent header feature. Default: 30px"
+msgstr ""
+
+#: ../inc/iPanel/options.php:829
+msgid "Featured Posts Slider post details layout"
+msgstr ""
+
+#: ../inc/iPanel/options.php:833
+msgid "Horizontal"
+msgstr ""
+
+#: ../inc/iPanel/options.php:834
+msgid "Disable Post Details (show as image slider)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:836
+msgid ""
+"Select where to show post details (title, description, category, etc) in blog "
+"posts inside slider."
+msgstr ""
+
+#: ../inc/iPanel/options.php:840
+msgid "Show slider posts description"
+msgstr ""
+
+#: ../inc/iPanel/options.php:846
+msgid "Check if you want to show post descriptions in slider."
+msgstr ""
+
+#: ../inc/iPanel/options.php:850
+msgid "Show slider posts Read More button"
+msgstr ""
+
+#: ../inc/iPanel/options.php:856
+msgid "Check if you want show Read More button for posts in slider."
+msgstr ""
+
+#: ../inc/iPanel/options.php:860
+msgid "Show comments and views counts for posts in slider"
+msgstr ""
+
+#: ../inc/iPanel/options.php:866
+msgid "Check if you want show additional post details near date in posts slider."
+msgstr ""
+
+#: ../inc/iPanel/options.php:870
+msgid "Merge slider slides"
+msgstr ""
+
+#: ../inc/iPanel/options.php:876
+msgid "Check if you want to see different slides widths in one row."
+msgstr ""
+
+#: ../inc/iPanel/options.php:880
+msgid "Center active slide"
+msgstr ""
+
+#: ../inc/iPanel/options.php:886
+msgid ""
+"Check if you want to see current slide centered and near slides cropped. Work "
+"best with slides per row set to 2 or 4."
+msgstr ""
+
+#: ../inc/iPanel/options.php:890
+msgid "Featured Posts Slider autoplay"
+msgstr ""
+
+#: ../inc/iPanel/options.php:894 ../inc/iPanel/options.php:1007
+msgid "Enable - 10 seconds"
+msgstr ""
+
+#: ../inc/iPanel/options.php:895 ../inc/iPanel/options.php:1008
+msgid "Enable - 5 seconds"
+msgstr ""
+
+#: ../inc/iPanel/options.php:896 ../inc/iPanel/options.php:1009
+msgid "Enable - 3 seconds"
+msgstr ""
+
+#: ../inc/iPanel/options.php:897 ../inc/iPanel/options.php:1010
+msgid "Enable - 2 seconds"
+msgstr ""
+
+#: ../inc/iPanel/options.php:898 ../inc/iPanel/options.php:1011
+msgid "Enable - 1 second"
+msgstr ""
+
+#: ../inc/iPanel/options.php:904
+msgid "Featured Posts Slider navigation arrows"
+msgstr ""
+
+#: ../inc/iPanel/options.php:908 ../inc/iPanel/options.php:918
+msgid "Enable"
+msgstr ""
+
+#: ../inc/iPanel/options.php:914
+msgid "Featured Posts Slider pagination buttons"
+msgstr ""
+
+#: ../inc/iPanel/options.php:927
+msgid "Welcome Block settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:934
+msgid "Show Welcome Block on homepage"
+msgstr ""
+
+#: ../inc/iPanel/options.php:940
+msgid "You can display any HTML content in this block below your slider or header."
+msgstr ""
+
+#: ../inc/iPanel/options.php:945
+msgid "Homepage Welcome Block content"
+msgstr ""
+
+#: ../inc/iPanel/options.php:948
+msgid ""
+"You can use any HTML here to display any content in your welcome block with "
+"predefined layout."
+msgstr ""
+
+#: ../inc/iPanel/options.php:959
+msgid "Popular Posts Carousel settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:966
+msgid "Show Popular Posts Carousel on homepage"
+msgstr ""
+
+#: ../inc/iPanel/options.php:972
+msgid ""
+"You can enable mini slider with popular posts (by views) below your header on "
+"homepage."
+msgstr ""
+
+#: ../inc/iPanel/options.php:976
+msgid "Popular Posts Block title"
+msgstr ""
+
+#: ../inc/iPanel/options.php:979
+msgid "Change default Popular Posts block title. Leave empty to hide title."
+msgstr ""
+
+#: ../inc/iPanel/options.php:983
+msgid "Popular Posts Block subtitle"
+msgstr ""
+
+#: ../inc/iPanel/options.php:986
+msgid "Change default Popular Posts block subtitle. Leave empty to hide title."
+msgstr ""
+
+#: ../inc/iPanel/options.php:990
+msgid "Popular Posts Carousel posts limit"
+msgstr ""
+
+#: ../inc/iPanel/options.php:996
+msgid "Popular Posts Carousel category slug"
+msgstr ""
+
+#: ../inc/iPanel/options.php:999
+msgid ""
+"If you want to show popular posts only from some category specify it's SLUG here "
+"(You can create special category like \"Popular\" and assing posts to it if you "
+"want to show only selected posts). You can see/set category SLUG when you edit "
+"category. Leave empty to show posts from all categories."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1003
+msgid "Popular Posts Slider autoplay"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1020
+msgid "Editor's Picks Homepage Block settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1031
+msgid ""
+"To add your posts to Editor's Picks Block you need to edit your post and set it "
+"as Editors Pick post in Post Settings box."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1034
+msgid "Show Editor's Picks Block on homepage footer"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1043
+msgid "Editor's Picks Block title"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1046
+msgid "Change default Editor's Picks Posts block title. Leave empty to hide title."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1050
+msgid "Editor's Picks Block subtitle"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1053
+msgid "Change default Editor's Picks  block subtitle. Leave empty to hide title."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1057
+msgid "Editor's Picks Block layout"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1061
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1062
+msgid "Small Blocks"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1063
+msgid "Large Blocks"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1068
+msgid "Editor's Picks Block posts limit (rows)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1072
+msgid "One row"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1073
+msgid "Two rows"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1078
+msgid "Editor's Picks Block posts category slug"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1081
+msgid ""
+"If you want to show popular posts only from some category specify it's SLUG here "
+"(You can create special category like \"Picks\" and assing posts to it if you "
+"want to show only selected posts). You can see/set category SLUG when you edit "
+"category. Leave empty to show posts from all categories."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1089
+msgid "Single Post page settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1096
+msgid "Show Post/Page Header Image under header (Transparent header feature)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1102
+msgid ""
+"This feature will make your header transparent and will show it above post/page "
+"header image. You need to upload light logo version to use this feature and "
+"assign header image for posts/pages where you want to see this feature."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1106
+msgid "Use smaller content width on single posts and pages without sidebar"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1112
+msgid ""
+"This option add left/right margins on all pages and posts without sidebars to "
+"make your content width smaller."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1116
+msgid "Show author info with avatar after single blog post"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1122
+msgid ""
+"You need to fill your post author biography details and social links in Users "
+"section in WordPress to make this work."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1126
+msgid ""
+"Show vertical post info box with avatar at the left side of single blog post"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1132
+msgid ""
+"Show post info box with author details, comments count, views and post share "
+"buttons at the left of single post article."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1136
+msgid "Show horizontal post info box at the end of single post"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1142
+msgid ""
+"Show post info box with comments count, views and post share buttons after "
+"single post article."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1146
+msgid "Show share links in Single Post header below post title"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1155
+msgid "Show share buttons for posts in single post page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1165
+msgid "Enable Drop Caps (first big letter) in single post pages"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1174
+msgid "Show related posts on single post page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1183
+msgid "Hide post featured image on single post page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1189
+msgid ""
+"Enable this if you don't want to see featured post image on single post page."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1193
+msgid "Show prev/next posts navigation links on single post page"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1223
+msgid "Blog page sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1236 ../inc/iPanel/options.php:1257
+#: ../inc/iPanel/options.php:1278 ../inc/iPanel/options.php:1299
+#: ../inc/iPanel/options.php:1320 ../inc/iPanel/options.php:1341
+#: ../inc/iPanel/options.php:1362 ../inc/theme-metaboxes.php:74
+#: ../inc/theme-metaboxes.php:221
+msgid "Disable sidebar"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1244
+msgid "Pages sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1265
+msgid "Blog Archive page sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1286
+msgid "Blog Search page sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1307
+msgid "Blog post sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1328
+msgid "WooCommerce pages sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1349
+msgid "WooCommerce product page sidebar position"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1385
+msgid "Social icons"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1393
+msgid ""
+"Social icons for your web accounts, can be used in theme in different places "
+"(Header, Footer, Widgets, etc). Leave URL fields blank to hide this social icon."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1399
+msgid "Facebook Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1405
+msgid "Vkontakte page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1411
+msgid "Twitter Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1417
+msgid "Google+ Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1423
+msgid "LinkedIn Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1429
+msgid "Dribbble Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1435
+msgid "Behance Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1441
+msgid "Instagram Page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1447
+msgid "Tumblr page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1453
+msgid "Pinterest page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1459
+msgid "Vimeo page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1465
+msgid "YouTube page url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1471
+msgid "Skype url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1477
+msgid "Flickr url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1483
+msgid "RSS url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1490
+msgid "Deviantart url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1496
+msgid "500px url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1502
+msgid "Etsy url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1508
+msgid "Telegram url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1514
+msgid "Odnoklassniki url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1520
+msgid "Houzz url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1526
+msgid "Slack url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1532
+msgid "QQ url"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1559
+msgid "Headers font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1561
+msgid "Font used in headers. Default: Playfair Display"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1574
+msgid "Headers font parameters for Google Font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1577 ../inc/iPanel/options.php:1641
+msgid ""
+"You can specify additional Google Fonts paramaters here, for example fonts "
+"styles to load or subset. Default: 400,400italic,600,600italic<br>Example with "
+"custom subsets: 300,300italic,400,400italic&subset=latin,latin-ext,cyrillic"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1583
+msgid "Font used in text elements. Default: Lato"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1586
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1616
+msgid "Body font parameters for Google Font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1619
+msgid ""
+"You can specify additional Google Fonts paramaters here, for example fonts "
+"styles to load or subset. Default: 400,400italic,700,700italic<br>Example with "
+"custom subsets: 300,300italic,400,400italic&subset=latin,latin-ext,cyrillic"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1625
+msgid ""
+"You can select any additional Google font here and use it in Custom CSS in "
+"theme. Default: Montserrat"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1638
+msgid "Additional font parameters for Google Font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1645
+msgid "Enable Additional font"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1651
+msgid ""
+"Uncheck if you don't want to use Additional font. This will speed up your site."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1655
+msgid "<span style=\"color:red\">Disable ALL Google Fonts on site</span>"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1661
+msgid ""
+"Use this if you want extra site speed or want to have regular fonts. Arial font "
+"will be used with this option."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1665
+msgid "Regular font (apply if you disabled Google Fonts below)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1677
+msgid "Use this option if you disabled ALL Google Fonts."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1698
+msgid "Predefined color skins"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1702
+msgid "Use colors specified below"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1703
+msgid "Bjorn (Default)"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1704
+msgid "Black"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1705
+msgid "Grey"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1706
+msgid "Light blue"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1707
+msgid "Blue"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1708
+msgid "Red"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1709
+msgid "Green"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1710
+msgid "Orange"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1711
+msgid "RedOrange"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1712
+msgid "Brown"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1714
+msgid ""
+"Select one of predefined skins or use your own colors. If you selected any "
+"predefined styles your specified colors below will NOT be applied."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1719
+msgid "Body background color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1722
+msgid "Used in many theme places, default: #FFFFFF"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1730
+msgid "Body text color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1733
+msgid "Body text color, default: #000000"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1741
+msgid "Theme main color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1744
+msgid "Used in many theme places, buttons, links, etc. Default: #9ba78a"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1752
+msgid "Header background color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1755
+msgid "Default: #FFFFFF"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1763
+msgid "Category menu background color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1766
+msgid "This background will be used for main menu below header. Default: #FFFFFF"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1774
+msgid "Footer background color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1777
+msgid "Default: #ffffff"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1785
+msgid "Masonry/List blog layout blocks background color"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1788
+msgid "Default: #F5F5F5"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1803
+msgid "Ads management"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1812
+msgid ""
+"<strong>Click ads position name to open settings box.</strong><br>Need new ads "
+"position in some specific theme place? <a target=\"_blank\" href=\"http://"
+"support.magniumthemes.com/\">Let our support know</a> where you want to see new "
+"ads place and we will add it in next theme update."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1819
+msgid "Site Header Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1827
+msgid "This banner will be displayed below site Header on all pages."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1833 ../inc/iPanel/options.php:1870
+#: ../inc/iPanel/options.php:1907 ../inc/iPanel/options.php:1944
+#: ../inc/iPanel/options.php:1981 ../inc/iPanel/options.php:2018
+#: ../inc/iPanel/options.php:2055 ../inc/iPanel/options.php:2092
+#: ../inc/iPanel/options.php:2129
+msgid "Enable Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1839 ../inc/iPanel/options.php:1876
+#: ../inc/iPanel/options.php:1913 ../inc/iPanel/options.php:1950
+#: ../inc/iPanel/options.php:1987 ../inc/iPanel/options.php:2024
+#: ../inc/iPanel/options.php:2061 ../inc/iPanel/options.php:2098
+#: ../inc/iPanel/options.php:2135
+msgid "You can display any HTML content in this block to show your advertisement."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1843 ../inc/iPanel/options.php:1880
+#: ../inc/iPanel/options.php:1917 ../inc/iPanel/options.php:1954
+#: ../inc/iPanel/options.php:1991 ../inc/iPanel/options.php:2028
+#: ../inc/iPanel/options.php:2065 ../inc/iPanel/options.php:2102
+#: ../inc/iPanel/options.php:2139
+msgid "Banner HTML code"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1856
+msgid "Site Above Footer Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1864
+msgid "This banner will be displayed above site footer on all pages."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1893
+msgid "Site Footer Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1901
+msgid "This banner will be displayed in site footer on all pages."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1930
+msgid "Banner Below Homepage Popular Posts Slider"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1938
+msgid ""
+"This banner will be displayed on homepage below Homepage Popular Posts Slider."
+msgstr ""
+
+#: ../inc/iPanel/options.php:1967
+msgid "Post Loops Middle Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:1975
+msgid ""
+"This banner will be displayed at the middle between posts on all posts listing "
+"pages (Homepage, Archives, Search, etc). This banner does not available in "
+"Masonry and Two column blog layouts."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2004
+msgid "Post Loops Bottom Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2012
+msgid ""
+"This banner will be displayed at the bottom after all posts on posts listing "
+"pages (Homepage, Archives, Search, etc)."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2041
+msgid "Single Blog Post page Top banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2049
+msgid ""
+"This banner will be displayed on single blog post page between post content and "
+"featured image."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2078
+msgid "Single Blog Post page Bottom banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2086
+msgid "This banner will be displayed on single blog post page after post content."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2115
+msgid "404 Page and Search Nothing Found Banner"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2123
+msgid ""
+"This banner will be displayed on 404 (page not found) and search nothing found "
+"pages."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2159
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2168
+msgid ""
+"<div class=\"ipanel-label\"><label>Custom CSS styles</label></div><div class="
+"\"ipanel-input\">You can add Custom CSS styles in <a href=\"customize.php\" "
+"target=\"_blank\">WordPress Customizer</a> (in \"Additional CSS\" section at the "
+"left sidebar).<br/><br/><br/></div>"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2171
+msgid "Custom JavaScript or JQuery code"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2180
+msgid ""
+"This code will run in header, do not add &#x3C;script&#x3E;...&#x3C;/"
+"script&#x3E; tags here, this tags will be added automatically. You can use "
+"JQuery code here."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2193
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2220
+msgid "Settings Backup"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2230
+msgid "Export theme control panel settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2232
+msgid "Export theme admin panel settings to file."
+msgstr ""
+
+#: ../inc/iPanel/options.php:2235
+msgid "Import theme control panel settings"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2250
+msgid "Bjorn Control Panel"
+msgstr ""
+
+#: ../inc/iPanel/options.php:2251
+msgid "Theme Control Panel"
+msgstr ""
+
+#: ../inc/theme-functions.php:19
+msgid "Bjorn Custom Metaboxes"
+msgstr ""
+
+#: ../inc/theme-functions.php:26
+msgid "Bjorn Theme Addons"
+msgstr ""
+
+#: ../inc/theme-functions.php:33
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../inc/theme-functions.php:40
+msgid "Bjorn Page Navigation"
+msgstr ""
+
+#: ../inc/theme-functions.php:45
+msgid "Bjorn Translation Manager"
+msgstr ""
+
+#: ../inc/theme-functions.php:50
+msgid "Instagram Feed"
+msgstr ""
+
+#: ../inc/theme-functions.php:55
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../inc/theme-functions.php:60
+msgid "WordPress LightBox"
+msgstr ""
+
+#: ../inc/theme-functions.php:65
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/theme-functions.php:70
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: ../inc/theme-functions.php:274
+msgid "Menu"
+msgstr ""
+
+#: ../inc/theme-functions.php:433
+msgid "Follow us"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:15
+msgid "Page settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:41
+msgid "Page CSS class: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:49
+msgid "Don't display this page title (only show page content)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:69
+msgid "Page sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:71 ../inc/theme-metaboxes.php:218
+msgid "Use theme control panel settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:146
+msgid "Post settings"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:174
+msgid "Show this post in Homepage Posts Slider (Featured post)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:180
+msgid "Show this post in Editors Pick Block (Editor Pick post)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:187
+msgid "Don't show featured image on single post page"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:196
+msgid "Disable social share buttons on this post"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:216
+msgid "Post sidebar position: "
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:313
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:320
+msgid "Header Background image"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:321
+msgid ""
+"You can display fullwidth image background in your post/page header with post "
+"title. Use wide image here."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:332
+msgid "Post Formats options"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:340
+msgid "Gallery images<br> (for <i>Gallery</i> post format)."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:341
+msgid ""
+"Use this field to add your images for gallery in Gallery post format. Use SHIFT/"
+"CTRL keyboard buttons to select multiple images."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:348
+msgid "Video url<br> (for <i>Video</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:349
+msgid ""
+"Enter a Youtube, Vimeo, Flickr, TED or Vine video page url for Video post format."
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:355
+msgid "Audio url<br> (for <i>Audio</i> post format)"
+msgstr ""
+
+#: ../inc/theme-metaboxes.php:356
+msgid ""
+"Enter a SoundCloud, Mixcloud, Rdio or Spotify audio page url for Audio post "
+"format."
+msgstr ""
+
+#: ../inc/theme-widgets.php:10
+msgid "Default Blog sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:12
+msgid ""
+"Widgets in this area will be shown in the left or right site column on: Main "
+"Blog page, Archives, Search."
+msgstr ""
+
+#: ../inc/theme-widgets.php:18
+msgid "Single Blog Post sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:20
+msgid ""
+"Widgets in this area will be shown in the left or right site column on: Single "
+"Blog Post."
+msgstr ""
+
+#: ../inc/theme-widgets.php:26
+msgid "Page sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:28
+msgid ""
+"Widgets in this area will be shown in the left or right site column on: Page."
+msgstr ""
+
+#: ../inc/theme-widgets.php:34
+msgid "WooCommerce sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:36
+msgid ""
+"Widgets in this area will be shown in the left or right site column for "
+"woocommerce pages."
+msgstr ""
+
+#: ../inc/theme-widgets.php:42
+msgid "Offcanvas Left sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:44
+msgid ""
+"Widgets in this area will be shown in the left floating offcanvas menu sidebar "
+"that can be opened by toggle button in header. You can enable this sidebar in "
+"theme control panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:50
+msgid "Footer sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:52
+msgid "Widgets in this area will be shown in site footer in 3 columns."
+msgstr ""
+
+#: ../inc/theme-widgets.php:58
+msgid "Footer dark sidebar"
+msgstr ""
+
+#: ../inc/theme-widgets.php:60
+msgid ""
+"Widgets in this area will be shown in site footer in 4 column after Footer "
+"sidebar #1."
+msgstr ""
+
+#: ../inc/theme-widgets.php:84
+msgid "Your site&#8217;s most recent Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:85
+msgid "Bjorn Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:110
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:213 ../inc/theme-widgets.php:380
+#: ../inc/theme-widgets.php:763 ../inc/theme-widgets.php:847
+msgid "Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:216 ../inc/theme-widgets.php:391
+#: ../inc/theme-widgets.php:650
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:220
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:223
+msgid "Display post featured image?"
+msgstr ""
+
+#: ../inc/theme-widgets.php:234
+msgid "Your site&#8217;s most viewed Posts with thumbnails."
+msgstr ""
+
+#: ../inc/theme-widgets.php:235
+msgid "Bjorn Popular Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:260
+msgid "Popular Posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:383
+msgid "Display type:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:386
+msgid "Thumbnails"
+msgstr ""
+
+#: ../inc/theme-widgets.php:387
+msgid "Thumbnail in first post + Small Thubnails in other"
+msgstr ""
+
+#: ../inc/theme-widgets.php:388
+msgid "Small thumbnails only"
+msgstr ""
+
+#: ../inc/theme-widgets.php:404
+msgid "Slider with posts details and different settings."
+msgstr ""
+
+#: ../inc/theme-widgets.php:405
+msgid "Bjorn Posts Slider"
+msgstr ""
+
+#: ../inc/theme-widgets.php:635
+msgid "Title (Leave empty to disable title):"
+msgstr ""
+
+#: ../inc/theme-widgets.php:638
+msgid "Posts type:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:641
+msgid "Latest posts"
+msgstr ""
+
+#: ../inc/theme-widgets.php:642
+msgid "Popular"
+msgstr ""
+
+#: ../inc/theme-widgets.php:643
+msgid "Editors Pick"
+msgstr ""
+
+#: ../inc/theme-widgets.php:644
+msgid "Featured"
+msgstr ""
+
+#: ../inc/theme-widgets.php:647
+msgid "Category ID:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:654
+msgid "Slider autoplay"
+msgstr ""
+
+#: ../inc/theme-widgets.php:666
+msgid "Your site&#8217;s most recent comments with date."
+msgstr ""
+
+#: ../inc/theme-widgets.php:667
+msgid "Bjorn Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:693
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/theme-widgets.php:766
+msgid "Number of comments to show:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:779
+msgid "Show social follow icons set in theme admin panel."
+msgstr ""
+
+#: ../inc/theme-widgets.php:780
+msgid "Bjorn Social Icons"
+msgstr ""
+
+#: ../inc/theme-widgets.php:806
+msgid "Subscribe and follow"
+msgstr ""
+
+#: ../inc/theme-widgets.php:861
+msgid "Add widget with any HTML content or shortcodes inside."
+msgstr ""
+
+#: ../inc/theme-widgets.php:863
+msgid "Bjorn Content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:967
+msgid "Disable paddings in widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:968
+msgid "Custom padding for content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:969
+msgid "For ex.: 10px 5px 10px 5px"
+msgstr ""
+
+#: ../inc/theme-widgets.php:970
+msgid "Text align:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:977
+msgid "Text color:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:978
+msgid "For example: #ffffff"
+msgstr ""
+
+#: ../inc/theme-widgets.php:979
+msgid "Background image url:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:980
+msgid "Select background image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:980
+msgid "Add background image to widget"
+msgstr ""
+
+#: ../inc/theme-widgets.php:980
+msgid "Select image"
+msgstr ""
+
+#: ../inc/theme-widgets.php:981
+msgid "Widget Title:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:984
+msgid "Content:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:985
+msgid "Add Image to content"
+msgstr ""
+
+#: ../inc/theme-widgets.php:988
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../inc/theme-widgets.php:990
+msgid "Button Text:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:991
+msgid "Leave empty to disable button"
+msgstr ""
+
+#: ../inc/theme-widgets.php:992
+msgid "Button URL:"
+msgstr ""
+
+#: ../inc/theme-widgets.php:993
+msgid "Open in new tab"
+msgstr ""
+
+#: ../no-results.php:15
+msgid "Nothing found"
+msgstr ""
+
+#: ../no-results.php:22
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+
+#: ../no-results.php:36
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../no-results.php:36 ../searchform-popup.php:10 ../searchform.php:10
+msgid "Search"
+msgstr ""
+
+#: ../related-posts-loop.php:53
+msgid "You may also like"
+msgstr ""
+
+#: ../search.php:61
+msgid "Search Results"
+msgstr ""
+
+#: ../searchform-popup.php:9
+msgid "Type keyword(s) here and hit Enter &hellip;"
+msgstr ""
+
+#: ../searchform.php:9
+msgid "Type keyword(s) here &hellip;"
+msgstr ""

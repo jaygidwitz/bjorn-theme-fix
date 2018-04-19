@@ -1,0 +1,181 @@
+/* Animations */
+a,
+a.btn,
+.btn,
+.btn:focus, 
+input[type="submit"],
+.btn:hover, input[type="submit"]:hover,
+.woocommerce #content input.button, 
+.woocommerce #respond input#submit, 
+.woocommerce a.button, 
+.woocommerce button.button, 
+.woocommerce input.button, 
+.woocommerce-page #content input.button, 
+.woocommerce-page #respond input#submit, 
+.woocommerce-page a.button, 
+.woocommerce-page button.button, 
+.woocommerce-page input.button,
+.woocommerce a.added_to_cart, .woocommerce-page a.added_to_cart,
+.woocommerce div.product .woocommerce-tabs ul.tabs li, 
+.woocommerce #content div.product .woocommerce-tabs ul.tabs li, 
+.woocommerce-page div.product .woocommerce-tabs ul.tabs li, 
+.woocommerce-page #content div.product .woocommerce-tabs ul.tabs li,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a,
+.blog-post .more-link,
+.shopping-cart .view-cart,
+.bjorn-button a,
+.widget_product_categories a,
+.navbar .nav > li a,
+.woocommerce .widget_layered_nav ul li,
+.woocommerce-page .widget_layered_nav ul li,
+.content-block .widget_meta ul li,
+.woocommerce-page .widget_meta ul li,
+.content-block .widget_archive ul li,
+.woocommerce-page .widget_archive ul li,
+.woocommerce-page .widget_categories ul li,
+.content-block .widget_categories ul li,
+.content-block .widget_pages ul li,
+.woocommerce-page .widget_pages ul li,
+.widget_pages ul li a,
+.widget_meta ul li a,
+.widget_nav_menu a,
+.navigation-paging a,
+.widget_tag_cloud .tagcloud a,
+.widget_product_tag_cloud .tagcloud a,
+#top-link,
+.woocommerce nav.woocommerce-pagination ul li a,
+.woocommerce .widget_layered_nav ul li.chosen a,
+.woocommerce-page .widget_layered_nav ul li.chosen a,
+.woocommerce .widget_layered_nav_filters ul li a,
+.woocommerce-page .widget_layered_nav_filters ul li a,
+.st-menu-close-btn,
+.woocommerce.widget .product-categories li .cat-menu-close,
+.blog-post-related.blog-post-related-loop .blog-post-related-item .blog-post-related-item-inside,
+.blog-post-related .blog-post-related-title,
+.bjorn-post-pagination .bjorn-post-pagination-item .bjorn-post-pagination-title,
+body .owl-theme .owl-controls .owl-page span,
+.homepage-welcome-block .welcome-image-overlay span,
+.homepage-welcome-block .welcome-image:hover .welcome-image-overlay,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post-list-nav .bjorn-popular-post-list-nav-prev,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post-list-nav .bjorn-popular-post-list-nav-next,
+.bjorn-editorspick-post-list-wrapper .bjorn-editorspick-post.bjorn-editorspick-post-small .bjorn-editorspick-post-title h2,
+body .owl-theme .owl-dots .owl-dot span,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post-list .bjorn-popular-post .bjorn-popular-post-details .bjorn-popular-post-title h5,
+.navigation-post .nav-post-prev a:before,
+.navigation-post .nav-post-next a:before,
+.header-menu .header-menu-offcanvasmenu a,
+.header-menu .header-menu-search a,
+.navigation-post .nav-post-name {
+    -webkit-transition: color 0.2s ease, background 0.6s ease, border-color 0.2s ease;
+    transition: color 0.2s ease, background 0.6s ease, border-color 0.2s ease;
+}
+.search-bar-header .submit,
+.header-menu .menu-top-menu-container-toggle,
+.bjorn-post-list .bjorn-post-details .bjorn-post-title h2,
+.bjorn-post-list.bjorn-post-style-2 .bjorn-next-post,
+body .owl-theme .owl-controls,
+.homepage-welcome-block-2 .welcome-image img,
+header a.float-sidebar-toggle-btn,
+header .header-menu-search a.search-toggle-btn,
+.blog-post-related-single .blog-post-related-item .blog-post-related-image,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post:hover .bjorn-popular-post-image,
+body .owl-theme .owl-controls .owl-buttons div.owl-prev,
+body .owl-theme .owl-controls .owl-buttons div.owl-next,
+.blog-post .blog-post-thumb img,
+.post-social-wrapper .post-social,
+.search-close-btn,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post-list-nav,
+.homepage-welcome-block .welcome-image-overlay h3:hover,
+header .logo-link.logo-text,
+.blog-enable-images-animations .hover-effect-img {
+    -webkit-transition: opacity 0.2s ease;
+    transition: opacity 0.2s ease;
+}
+#top-link,
+footer #footer-top-button,
+.bjorn-post-image-wrapper,
+.bjorn-post-list .bjorn-post-details .bjorn-post-description,
+header .header-post-content .header-post-details .header-post-title a {
+	-webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+/* Slow Scale image */
+.bjorn-editorspick-post-list-wrapper .bjorn-editorspick-post .bjorn-editorspick-post-image,
+.bjorn-popular-post-list-wrapper .bjorn-popular-post-list .bjorn-popular-post .bjorn-popular-post-image,
+.blog-post-related.blog-post-related-loop .blog-post-related-item .blog-post-related-image,
+.blog-masonry-layout .blog-post.content-block .blog-post-thumb img,
+.sidebar .widget.widget_bjorn_recent_entries li a img,
+.sidebar .widget.widget_bjorn_recent_entries li a .widget-post-thumb-wrapper,
+.sidebar .widget.widget_bjorn_posts_slider .widget-post-slider-wrapper .widget-post-thumb-wrapper,
+#sb_instagram .sbi_photo_wrap .sbi_photo,
+.blog-enable-images-animations .sidebar .widget.widget_bjorn_popular_entries li .widget-post-thumb-wrapper {
+	-webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+.mainmenu-belowheader.fixed {
+	-webkit-transition: top 0.3s ease;
+    transition: top 0.3s ease;
+}
+@media (min-width: 768px) {
+	.nav .sub-menu {
+	    display: block;
+	    margin: 0;
+	    opacity: 0;
+	    transition: margin .3s,opacity .3s,right .3s, transform .3s;
+	    -webkit-transition: margin .3s,opacity .3s,right .3s;
+	    transform: matrix(0, 0, 0, 0, 0, 0);
+	    -ms-transform: matrix(0, 0, 0, 0, 0, 0);
+	    -webkit-transform: matrix(0, 0, 0, 0, 0, 0);
+
+	    -webkit-transform-style: preserve-3d;
+	    -webkit-backface-visibility: hidden;
+	}
+	.nav li:hover > .sub-menu {
+	    display: block;
+	    opacity: 1;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	    -ms-transform: matrix(1, 0, 0, 1, 0, 0);
+	    -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+
+	    webkit-transform-style: preserve-3d;
+	    -webkit-backface-visibility: hidden;
+	}
+	.nav .sub-menu > li > .sub-menu {
+		right: -90%;
+		margin-top: 0;
+	}
+	.nav .sub-menu > li:hover > .sub-menu {
+		right: -99.5%;
+	}
+	.header-menu .sub-menu {
+	    display: block;
+	    margin-top: 30px;
+	    opacity: 0;
+	    transition: margin .3s,opacity .3s,right .3s, transform .3s;
+	    -webkit-transition: margin .3s,opacity .3s,right .3s;
+	    transform: matrix(0, 0, 0, 0, 0, 0);
+	    -ms-transform: matrix(0, 0, 0, 0, 0, 0);
+	    -webkit-transform: matrix(0, 0, 0, 0, 0, 0);
+
+	    webkit-transform-style: preserve-3d;
+	    -webkit-backface-visibility: hidden;
+	}
+	.header-menu li:hover > .sub-menu {
+	    display: block;
+	    opacity: 1;
+	    margin-top: 0;
+	    transform: matrix(1, 0, 0, 1, 0, 0);
+	    -ms-transform: matrix(1, 0, 0, 1, 0, 0);
+	    -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+
+	    webkit-transform-style: preserve-3d;
+	    -webkit-backface-visibility: hidden;
+	}
+	.header-menu .sub-menu > li > .sub-menu {
+		margin-top: 0;
+		right: -90%;
+	}
+	.header-menu .sub-menu > li:hover > .sub-menu{
+		right: -99.5%;
+	}
+}

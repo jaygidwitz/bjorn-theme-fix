@@ -1,0 +1,16 @@
+<wpml-config>
+    <admin-texts>
+        <key name="BJORN_PANEL">
+            <key name="header_banner_editor" />
+            <key name="header_banner2_editor" />
+            <key name="blog_homepage_welcome_block_content" />
+            <key name="footer_htmlblock_content" />
+            <key name="footer_copyright_editor" />
+            <key name="blog_homepage_popular_posts_title" />
+            <key name="blog_homepage_editorspick_posts_title" />
+            <key name="blog_homepage_editorspick_posts_subtitle" />
+            <key name="footer_instagram_title" />
+            <key name="footer_instagram_subtitle" />
+        </key>
+    </admin-texts>
+</wpml-config>
